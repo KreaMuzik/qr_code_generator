@@ -1,4 +1,4 @@
 # QR Code Generator
 ## By: KreaMuzik
 
-A simple QR code generator with GUI.
+A simple QR code generator.
